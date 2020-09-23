@@ -8,3 +8,5 @@ In this webinar, we will learn the following:
 - Managing your branch
 - Push commits to GitHub
 - Fetch and merge changes
+
+Adding a line from new-branch

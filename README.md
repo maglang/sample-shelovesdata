@@ -2,7 +2,7 @@
 This is a sample repository for the She Loves Data webinar.
 
 ## Outline
-In this repository, we will learn the following:
+In this webinar, we will learn the following:
 - Create and use a repository
 - Managing access
 - Managing your branch
